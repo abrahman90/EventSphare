@@ -541,7 +541,7 @@ spring.datasource.password=yourpassword
 EventSphere 
 
 ---
-#Sms confinguration Africastalking
+# Sms confinguration Africastalking
 
 follow this link  https://africastalking.com/
 Register account

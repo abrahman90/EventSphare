@@ -494,7 +494,7 @@ GET /api/organizer/dashboard
 ## Clone Repository
 
 ```bash
-git clone https://github.com/abrahman90/eventsphere.git
+git clone https://github.com/abrahman90/EventSphare.git
 ```
 ##Sever port 
 *for backend port  8080

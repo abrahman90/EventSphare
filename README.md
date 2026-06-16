@@ -496,9 +496,9 @@ GET /api/organizer/dashboard
 ```bash
 git clone https://github.com/abrahman90/EventSphare.git
 ```
-##Sever port 
-*for backend port  8080
-*for fontend port 5173
+# Sever port 
+* for backend port  8080
+* for fontend port 5173
 you can confingure this by navigating to backend->Eventsphere->src->main->resources->Application.propeties
 for the fontend confingure this by navigating fontend->src->api->index.js
 ## Backend Setup

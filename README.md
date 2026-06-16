@@ -541,6 +541,11 @@ spring.datasource.password=yourpassword
 EventSphere 
 
 ---
+#Sms confinguration Africastalking
+
+follow this link  https://africastalking.com/
+Register account
+Sing up create the sandbox to get API keys  and username you dont ned send id
 
 # License
 

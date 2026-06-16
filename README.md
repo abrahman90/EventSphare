@@ -1,5 +1,9 @@
 # EventSphere – Smart Event Management System
 
+
+<img width="1524" height="855" alt="Screenshot 2026-06-13 102351" src="https://github.com/user-attachments/assets/6bcbd5b4-ad8b-4068-aa0e-6544bcee2bbb" />
+
+
 ## Overview
 
 EventSphere is a full-stack web application designed to simplify and automate event management for universities, organizations, businesses, and communities. The platform enables organizers to create and manage events, participants to register online, and administrators to monitor system activities through dashboards and reports.
@@ -518,3 +522,9 @@ EventSphere
 # License
 
 This project is developed for academic and educational purposes.
+
+
+
+
+
+
